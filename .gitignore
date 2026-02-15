@@ -1,0 +1,24 @@
+# Pliki wykonywalne (wynik kompilacji)
+*.exe
+*.out
+alokator
+main
+
+# Pliki obiektowe i biblioteki
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# Foldery generowane przez IDE (np. VS Code, CLion, Visual Studio)
+.vscode/
+.idea/
+*.user
+*.suo
+*.pdb
+
+# Logi i pliki tymczasowe
+*.log
+*.tmp
