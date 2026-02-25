@@ -3,7 +3,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![File System](https://img.shields.io/badge/FS-FAT16-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-
   
 ## 📋 Opis projektu
 
